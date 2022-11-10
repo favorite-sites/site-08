@@ -1,4 +1,8 @@
-# 메디컬 바이오 이미지 프로세싱 원어 강의
+# 바이오메디컬 이미지 프로세싱 원어 강의
+
+// iBiology Techniques
+
+https://www.youtube.com/c/iBiologyTechniques/playlists
 
 // UCF CRCV
 
@@ -20,5 +24,3 @@ https://www.youtube.com/channel/UCzCYXXl5I1Yvhp92RNoj2OQ/playlists
 
 https://youtu.be/e-2DbkUwKk4
 
-// iBiology Techniques
-https://www.youtube.com/c/iBiologyTechniques/playlists
