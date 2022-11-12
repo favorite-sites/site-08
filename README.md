@@ -12,10 +12,6 @@ https://www.youtube.com/c/UCFCRCV/playlists
 
 https://www.youtube.com/c/MIUA2020/playlists
 
-// Medical Image Analysis
-
-https://www.youtube.com/channel/UCzCYXXl5I1Yvhp92RNoj2OQ/playlists
-
 // haesleinhuepf Bio Image Analysis
 
 https://youtu.be/e-2DbkUwKk4
