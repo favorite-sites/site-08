@@ -16,6 +16,10 @@ https://www.youtube.com/c/MIUA2020/playlists
 
 https://youtu.be/e-2DbkUwKk4
 
+// 박문호TV
+
+https://www.youtube.com/channel/UC6kqZbpWex1wIOTpCgfNRzQ/playlists
+
 # 화학 강의
 
 http://www.kocw.net/home/cview.do?mty=p&kemId=906737
