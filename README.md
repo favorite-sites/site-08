@@ -52,6 +52,16 @@ http://www.kocw.or.kr/home/cview.do?mty=p&kemId=330154&ar=relateCourse
 
 http://www.kocw.net/home/cview.do?mty=p&kemId=430456
 
+// 일반화학1
+
+http://www.kocw.net/home/cview.do?cid=6e5de28d42cf69c4
+
+http://www.kocw.net/home/cview.do?cid=cd8c5f9859d121ce
+
+http://www.kocw.net/home/cview.do?cid=2fcc131fd6f35bc6
+
+http://www.kocw.net/home/cview.do?cid=3b1da4bc2c85c05e
+
 // 일반화학2
 
 http://www.kocw.net/home/cview.do?cid=a9b2acdd5000245b
